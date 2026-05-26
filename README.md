@@ -1,7 +1,6 @@
-# Array_Full_Problem
+# Array_Full_Problems
 
-#
----
+
 
 ## 📋 Problems Solved
 
